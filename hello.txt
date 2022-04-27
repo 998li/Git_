@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 hello git444444	
 git 5555555
-hello 666666
+hello 66666
 git
 hello git	
 hello git	
