@@ -1,6 +1,6 @@
-hello git444444	
-git 5555555
-hello 66666
+hello git444
+git 555
+hello 666
 git master
 hello git4			
 git new_
